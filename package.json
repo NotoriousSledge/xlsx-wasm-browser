@@ -12,5 +12,6 @@
   ],
   "module": "index.js",
   "types": "index.d.ts",
-  "sideEffects": false
+  "sideEffects": false,
+  "main": "index.js"
 }
